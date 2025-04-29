@@ -1,0 +1,9 @@
+regex
+tiktoken
+fpdf
+langchain
+langchain-core
+langchain-openai
+langchain_community
+crewai
+crewai_tools
